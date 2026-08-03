@@ -7,11 +7,6 @@ My personal portfolio website showcasing my projects, technical skills, and soft
 
 Coming Soon
 
-## 📸 Preview
-
-> Add a screenshot of the homepage here after deployment.
-
----
 
 ## 🚀 Features
 
